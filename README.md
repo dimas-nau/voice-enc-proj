@@ -25,3 +25,5 @@ The code provided have several arguments:
 4. -noise: SNR value for decrypt.
 
 ## Documentation
+The documentation currently only available in Bahasa.
+[Document](https://drive.google.com/file/d/17JsUxs567v-eRjiOZFX6_U_PgyXnTrjE/view?usp=sharing)

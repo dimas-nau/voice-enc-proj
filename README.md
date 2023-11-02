@@ -13,7 +13,8 @@ The idea is to simulate a wireless communication from 'transmitter' and 'receive
 There are several function scripts placed at function folder. The documentation explains the research work flow chart, previous results, and brief explanation of the model.
 
 ## How to use
-To use the pipeline bash file just simply run:
+Please note that this process is done in Linux environment, Ubuntu 20.10.
+To use the pipeline bash file just simply run this line in your terminal:
 ```bash
 ./decrypt.sh
 ```

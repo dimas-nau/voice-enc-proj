@@ -1,6 +1,6 @@
 ## 🔒 Secure Speech on Phonetic Level 🔒 
 
-This repo consists of programs for research on secure speech on phonetic level utilizing Wav2Vec 2.0 by Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli, downloaded from [🤗HuggingfaceHub](https://huggingface.co).
+This repo consists of programs for research on secure speech at phonetic level utilizing Wav2Vec 2.0 by Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli, downloaded from [🤗HuggingfaceHub](https://huggingface.co).
 
 The idea is to simulate a wireless communication from 'transmitter' and 'receiver', by scrambling the information recorded in 'transmitter' and decodes it on the 'receiver' end. To make things as close to reality as possible, we have done the test using several SNR levels by adding white gaussian noise (AWGN). Here are the list of used programs in the conducted research:
 1. transmit_receive.py  : The waterfall process from transmit to receive.
